@@ -1,0 +1,47 @@
+#p1{
+    text-align: left;
+    font-size: 40px;
+    color: aliceblue;
+}
+#con{
+    background-color: orange;
+}
+#img{
+    margin-top: 40px;
+    border-radius: 35px;
+    height: 300px;
+    width: 500px;
+}
+#bot{
+    color: orange;
+    background-color: #ffffff;
+}
+#img1{
+    height:200px;
+    width: 150px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+
+}
+#p3{
+    color:aliceblue;
+    font-size: 20px;
+}
+#img2{
+    height:200px;
+    width: 150px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    margin-left: 50px;
+
+}
+#img3{
+    height:200px;
+    width: 150px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+
+}
+#p2{
+    color:aliceblue;
+}

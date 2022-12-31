@@ -1,0 +1,17 @@
+body{
+    background-image:url(../assets/7.png) ;
+}
+#con{
+    background-color: #ffffff;
+    margin-top: 1300px;
+    width: 5000px;
+    border-top-right-radius: 35px;
+    border-top-left-radius: 30px;
+}
+#p1{
+    margin-top: 35px;
+    text-align: center;
+    font-size: large;
+    color: blueviolet;
+    font-size: 30px;
+}
